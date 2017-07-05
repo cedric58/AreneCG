@@ -1,0 +1,18 @@
+On fait varier le paramètre du REMOVE du player 1 de 1 à 3 => 1
+Nombre partie jouée : 50 (en 2328.13 ms)
+Nombre victoires joueur 1 : 31 (62%)
+Nombre victoires joueur 2 : 19 (38%)
+Nombre ex-aequo : 0 (0%)
+
+On fait varier le paramètre du REMOVE du player 1 de 1 à 3 => 2
+Nombre partie jouée : 50 (en 1838.11 ms)
+Nombre victoires joueur 1 : 22 (44%)
+Nombre victoires joueur 2 : 28 (56%)
+Nombre ex-aequo : 0 (0%)
+
+On fait varier le paramètre du REMOVE du player 1 de 1 à 3 => 3
+Nombre partie jouée : 50 (en 1661.1 ms)
+Nombre victoires joueur 1 : 17 (34%)
+Nombre victoires joueur 2 : 33 (66%)
+Nombre ex-aequo : 0 (0%)
+
